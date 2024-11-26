@@ -13,21 +13,6 @@ As an adaptable, solution-oriented problem solver, I thrive in **collaborative e
 
 ---
 
-## 🛠️ Skills
-
-### **Programming Languages**  
-- Python | HTML/CSS | JavaScript | TypeScript | Java | C# | SQL  
-
-### **Frameworks & Tools**  
-- Django | React | Next.js | Node.js | Streamlit | FastAPI  
-- TensorFlow | LangChain | Google Gemini API | BeautifulSoup | NetworkX  
-
-### **Design & Automation**  
-- Adobe Illustrator | Photoshop | Premiere Pro | Blender | Unity  
-- REST APIs | JSON | Automation (ActivePieces, AiTable, Uptime Monitoring)
-
----
-
 ## 🔬 Notable Projects
 
 ### 🎨 [**Web Portfolio**](https://zaid.netreviews.ai) *(Aug 2023 – Present)*  
@@ -40,29 +25,6 @@ Contributed to **storyboarding**, **testing**, and **publishing** phases.
 
 ### 🧠 **Python AI Web Scraper** *(July 2024)*  
 Created a **multi-URL Python web scraper** integrated with **LLM parsing** and **Streamlit** for user-friendly data export.
-
----
-
-## 📈 Certifications
-
-- **Google UX Design Professional Certificate** *(Expected Oct 2024)*  
-- **Prompt Engineering for ChatGPT** *(2023, Vanderbilt University)*  
-- **Introduction to Cybersecurity** *(2023, Kaspersky Academy)*  
-
----
-
-## 💼 Work Experience
-
-### **Automation & AI Engineer (Freelance)** *(June 2024 – Present)*  
-- Enhanced team efficiency by **5x** through API integrations and automation pipelines.  
-- Developed tools for **PDF metadata extraction** and research topic generation using **Google Gemini API**.  
-
-### **Team Leader, ProspHER US Market Expansion Project** *(Aug 2024)*  
-- Led a **5-member team** to deliver a comprehensive **US market expansion strategy** for an SME.  
-- Proposed solutions incorporating **AI, automation, and CRM systems**.  
-
-### **Mobile Application Tester (Volunteering)** *(July 2018 – Aug 2018)*  
-- Tested a mobile app with **500+ users**, identifying and reporting **50+ bugs** using **Jira and TestFlight**.  
 
 ---
 
