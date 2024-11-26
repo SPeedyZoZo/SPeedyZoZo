@@ -1,6 +1,11 @@
-
-
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
+
+<p align="center">
+  🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior Software Engineer</strong><br>
+  🌍 Based in <strong>Slough, United Kingdom</strong> | 🇬🇧 <strong>British Passport Holder</strong>
+</p>
+
+<hr>
 <p align="center" width="100%">
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
   <table style="border-collapse: collapse; width: auto; text-align: center;">
@@ -17,23 +22,13 @@
                style="width: 300px;">
         </div>
         <div style="margin-top: 10px;">
-          <a href="https://linkedin.com/in/zaid-chughtai-628b52222" style="text-decoration: none; color: #0073b1; font-size: 18px;">My LinkedIn</a>
+          <a href="https://linkedin.com/in/zaid-chughtai-628b52222" style="text-decoration: none; color: #0073b1; font-size: 24px;">My LinkedIn</a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 </p>
-
-
-
-<p align="center">
-  🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior Software Engineer</strong><br>
-  🌍 Based in <strong>Slough, United Kingdom</strong> | 🇬🇧 <strong>British Passport Holder</strong>
-</p>
-
-<hr>
-
 <h2>🌟 Professional Summary</h2>
 
 <p>
