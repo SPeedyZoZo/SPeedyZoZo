@@ -38,8 +38,7 @@ Created a **multi-URL Python web scraper** integrated with **LLM parsing** and *
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPeedyZoZo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent)  
 
 ---
 
