@@ -69,7 +69,7 @@
 <!-- <h3>🎯 <strong>VisualPromptBuilder</strong> <em>(April 2024)</em></h3>
 <a href="https://github.com/SPeedyZoZo/VisualPromptBuilder-fyp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SPeedyZoZo&repo=VisualPromptBuilder-fyp" alt="VisualPromptBuilder Repo">
-</a> -->
+</a> 
 <p>
   Designed and developed a <strong>user-centric web app</strong> aiding cognitively disabled individuals in communication using <strong>pictograms</strong>.<br>
   Programmed using <strong>React, TypeScript, and Next.js</strong>.<br>
@@ -77,7 +77,7 @@
   Includes <strong>Web Speech API</strong> for browser-based spoken audio playback.<br>
   Demonstrates application design patterns such as <strong>facade and adapter</strong>.
 </p>
-
+-->
 <hr>
 
 <h2>📫 Let's Connect!</h2>
