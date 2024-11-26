@@ -1,7 +1,5 @@
-<div>
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
 
-</div>
 ![me2](https://github.com/user-attachments/assets/bbd4258b-5186-4a0f-860f-ac1108c2f8ef)
 
 <p align="center">
