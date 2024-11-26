@@ -1,8 +1,27 @@
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
 
-| Left Cell                                                                                 | Right Cell                                                                                              |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![me3](https://github.com/user-attachments/assets/a776a311-6895-40dc-add9-e2fc3b209686)  | <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent" alt="Top Langs"></td></tr><tr><td><a href="https://linkedin.com/in/zaid-chughtai-628b52222">My LinkedIn</a></td></tr></table> |
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+  <table style="border-collapse: collapse; width: auto; text-align: center;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/a776a311-6895-40dc-add9-e2fc3b209686" 
+             alt="Me" 
+             style="width: 256px; height: 256px; border-radius: 50%;">
+      </td>
+      <td style="padding: 10px;">
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent" 
+               alt="Top Languages" 
+               style="width: 300px;">
+        </div>
+        <div style="margin-top: 10px;">
+          <a href="https://linkedin.com/in/zaid-chughtai-628b52222" style="text-decoration: none; color: #0073b1; font-size: 18px;">My LinkedIn</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
