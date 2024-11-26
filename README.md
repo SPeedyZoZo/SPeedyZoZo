@@ -1,7 +1,9 @@
-<!-- Replace 'your-image-url.jpg' with the URL or path to your picture -->
-![IMG_20240909_154205_855~2](https://github.com/user-attachments/assets/7f7d27be-ec63-4f79-8478-8898d660d21b)
-
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/7f7d27be-ec63-4f79-8478-8898d660d21b/IMG_20240909_154205_855~2" 
+       alt="Zaid Chughtai" 
+       style="width: 256px; height: 256px; border-radius: 50%;">
+</div>
 
 <p align="center">
   🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior Software Engineer</strong><br>
