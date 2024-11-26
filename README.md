@@ -15,7 +15,7 @@ As an adaptable, solution-oriented problem solver, I thrive in **collaborative e
 
 ## 🔬 Notable Projects and Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPeedyZoZo&repo=portfolio)](https://github.com/SPeedyZoZo/portfolio)
 
 ### 🎨 [**Web Portfolio**](https://zaid.netreviews.ai) *(Aug 2023 – Present)*  
 Developed a **responsive portfolio** using **Next.js**, featuring **Google Analytics** integration and web tracking.  
