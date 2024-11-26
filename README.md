@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/7f7d27be-ec63-4f79-8478-8898d660d21b/IMG_20240909_154205_855~2" 
-       alt="Zaid Chughtai" 
-       style="width: 256px; height: 256px; border-radius: 50%;">
+![me2](https://github.com/user-attachments/assets/bbd4258b-5186-4a0f-860f-ac1108c2f8ef)
 </div>
+
 
 <p align="center">
   🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior Software Engineer</strong><br>
@@ -49,10 +47,10 @@
   Created a <strong>multi-URL Python web scraper</strong> integrated with <strong>LLM parsing</strong> and <strong>Streamlit</strong> for user-friendly data export.
 </p>
 
-<h3>🎯 <strong>VisualPromptBuilder</strong> <em>(April 2024)</em></h3>
+<!-- <h3>🎯 <strong>VisualPromptBuilder</strong> <em>(April 2024)</em></h3>
 <a href="https://github.com/SPeedyZoZo/VisualPromptBuilder-fyp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SPeedyZoZo&repo=VisualPromptBuilder-fyp" alt="VisualPromptBuilder Repo">
-</a>
+</a> -->
 <p>
   Designed and developed a <strong>user-centric web app</strong> aiding cognitively disabled individuals in communication using <strong>pictograms</strong>.<br>
   Programmed using <strong>React, TypeScript, and Next.js</strong>.<br>
