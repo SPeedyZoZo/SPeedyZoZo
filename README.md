@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
-
+<marquee>
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px; text-align: center;">
   <table style="border-collapse: collapse; width: auto; text-align: center;">
     <tr>
@@ -21,7 +21,7 @@
     </tr>
   </table>
 </div>
-
+</marquee>
 
 
 
