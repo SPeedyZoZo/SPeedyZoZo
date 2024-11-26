@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
 
-![me2](https://github.com/user-attachments/assets/bbd4258b-5186-4a0f-860f-ac1108c2f8ef)
+| Left Cell                                                                                 | Right Cell                                                                                              |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![me3](https://github.com/user-attachments/assets/a776a311-6895-40dc-add9-e2fc3b209686)  | <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPeedyZoZo&layout=compact&theme=transparent" alt="Top Langs"></td></tr><tr><td><a href="https://linkedin.com/in/zaid-chughtai-628b52222">My LinkedIn</a></td></tr></table> |
+
+
 
 <p align="center">
   🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior Software Engineer</strong><br>
