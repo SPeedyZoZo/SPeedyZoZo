@@ -49,14 +49,6 @@
   Currently receiving <strong>15+ weekly visitors</strong>.
 </p>
 
-<h3>🎮 <strong>Paw Troopers – Indie Mobile Game</strong> <em>(Aug 2019 – Oct 2024)</em></h3>
-<a href="https://github.com/SPeedyZoZo/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SPeedyZoZo&repo=portfolio" alt="Paw Troopers Repo">
-</a>
-<p>
-  Spearheading the development, design, and release of my <strong>indie mobile game</strong>.<br>
-  Contributed to <strong>storyboarding</strong>, <strong>testing</strong>, and <strong>publishing</strong> phases.
-</p>
 
 <h3>🧠 <strong>Python AI Web Scraper</strong> <em>(July 2024)</em></h3>
 <a href="https://github.com/SPeedyZoZo/web-scraper">
