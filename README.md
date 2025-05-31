@@ -34,11 +34,12 @@
 <p>
   I'm a recent <strong>Computer Science graduate</strong> specializing in <strong>Artificial Intelligence, Automation, and Web Scraping with Python</strong>.<br>
   As an adaptable, solution-oriented problem solver, I thrive in <strong>collaborative environments</strong>, constantly striving to <strong>innovate and learn</strong>.
+  These days, I am working as a Associate Consultant at Robiquity, specialising in the Power Platform and AI technologies.
 </p>
 
 <hr>
 
-<h2>🔬 Notable Projects and Stats</h2>
+<h2>🔬 Notable Personal Projects and Stats</h2>
 
 <h3>🎨 <a href="https://zaid.netreviews.ai"><strong>Web Portfolio</strong></a> <em>(Aug 2023 – Present)</em></h3>
 <a href="https://github.com/SPeedyZoZo/portfolio">
