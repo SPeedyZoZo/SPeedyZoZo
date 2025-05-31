@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm <strong>Zaid Chughtai</strong></h1>
 
 <p align="center">
-  🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Junior RPA/Software Engineer</strong><br>
-  🌍 Based in <strong>Slough, United Kingdom</strong> | 🇬🇧 <strong>British Passport Holder</strong>
+  🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Power Platform and RPA Engineer</strong><br>
+  🌍 Based in <strong>Slough, United Kingdom</strong> 🇬🇧
 </p>
 
 <hr>
