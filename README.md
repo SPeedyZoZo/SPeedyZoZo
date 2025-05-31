@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <strong>BSc (Hons.) Computer Science Graduate</strong> | 🧠 <strong>AI Enthusiast</strong> | 💻 <strong>Power Platform and RPA Engineer</strong><br>
-  🌍 Based in <strong>Slough, United Kingdom</strong> 🇬🇧
+  🌍 Based in <strong>Slough, United Kingdom</strong> 
 </p>
 
 <hr>
